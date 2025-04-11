@@ -1,3 +1,3 @@
 # AI_Research
 
-put some stuff - all data for the project
+the project shows help use AI research, get better collaboration
